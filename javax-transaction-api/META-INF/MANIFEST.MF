@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Export-Package: javax.transaction;uses:="javax.transaction.xa";version
+ ="1.1",javax.transaction.xa;version="1.1"
+Built-By: Jouanin
+Tool: Bnd-1.15.0
+Bundle-Name: EscapeK - Java transaction API bundle
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: EscapeK
+Build-Jdk: 1.6.0_24
+Bundle-Version: 1.1
+Bnd-LastModified: 1302518123171
+Bundle-ManifestVersion: 2
+Bundle-Description: Bundled version of Java Transaction API
+Bundle-SymbolicName: org.escapek.osgi-bundles.javax-transaction-api
+Bundle-DocURL: http://www.escapek.org/
+
