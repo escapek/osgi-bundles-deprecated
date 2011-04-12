@@ -9,7 +9,7 @@
 	<groupId>org.escapek.osgi-bundles</groupId>
 	<artifactId>javax-transaction-api</artifactId>
 	<version>1.1</version>
-	<name>EscapeK - Java transaction API bundle</name>
+	<name>EscapeK - Bundles - Java transaction API bundle</name>
 	<description>Bundled version of Java Transaction API</description>
 	<packaging>bundle</packaging>
 
