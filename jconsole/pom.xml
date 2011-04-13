@@ -10,8 +10,8 @@
 	<artifactId>jconsole</artifactId>
 	<version>1.6</version>
 
-	<name>EscapeK - Bundles - Java transaction API</name>
-	<description>Bundled version of Java Transaction API</description>
+	<name>EscapeK - Bundles - Jconsole</name>
+	<description>Bundled version of Jconsole</description>
 	<packaging>bundle</packaging>
 
 	<profiles>
