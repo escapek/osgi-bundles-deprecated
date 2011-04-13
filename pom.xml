@@ -16,5 +16,6 @@
 	<modules>
 		<module>javax-transaction-api</module>
 		<module>scala-runtime</module>
+		<module>jconsole</module>
 	</modules>
 </project>
