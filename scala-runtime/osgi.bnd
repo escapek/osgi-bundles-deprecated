@@ -1,2 +1,2 @@
-Export-Package: scala.*;version:=${project.version}
+Export-Package: *;version=${project.version}
 Import-Package: *;resolution:=optional
